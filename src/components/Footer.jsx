@@ -36,8 +36,8 @@ const Footer = () => {
                     <div>
                         <h4 style={{ fontSize: '1.1rem', fontWeight: '600', marginBottom: '1.5rem' }}>Company</h4>
                         <ul style={{ listStyle: 'none', display: 'flex', flexDirection: 'column', gap: '0.8rem' }}>
-                            <li><a href="https://ethiopian-researchers.netlify.app/" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--text-muted)' }}>About</a></li>
-                            <li><a href="https://ethiopian-researchers.netlify.app/" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--text-muted)' }}>Contact</a></li>
+                            <li><a href="https://ethioresearch.org/" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--text-muted)' }}>About</a></li>
+                            <li><a href="https://ethioresearch.org/" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--text-muted)' }}>Contact</a></li>
                         </ul>
                     </div>
 
