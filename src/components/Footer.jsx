@@ -57,7 +57,7 @@ const Footer = () => {
                     color: 'var(--text-muted)',
                     fontSize: '0.9rem'
                 }}>
-                    © 2025 LinkedIn Post Formatter. Built by <a href="https://ethiopian-researchers.netlify.app/" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--primary)', fontWeight: '600' }}>Ethiopian Researchers</a>.
+                    © 2025 LinkedIn Post Formatter. Built by <a href="https://ethioresearch.org/" target="_blank" rel="noopener noreferrer" style={{ color: 'var(--primary)', fontWeight: '600' }}>Ethiopian Researchers</a>.
                 </div>
             </div>
         </footer>
